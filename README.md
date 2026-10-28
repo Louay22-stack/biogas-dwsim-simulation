@@ -6,7 +6,7 @@ Steady-state simulation of a small biogas line in **DWSIM 10.2.11** (Peng-Robins
 **Tools:** DWSIM 10.2.11, draw.io, Excel
 **Date:** October 2026
 
-![PFD](pfd/PFD_Biogas.png)
+![PFD](PFD.png)
 
 ---
 
